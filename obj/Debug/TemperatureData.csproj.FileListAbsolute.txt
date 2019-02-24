@@ -1,0 +1,14 @@
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\obj\Debug\TemperatureData.csprojAssemblyReference.cache
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\obj\Debug\TemperatureData.csproj.CoreCompileInputs.cache
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\bin\Debug\TemperatureData.exe.config
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\bin\Debug\TemperatureData.exe
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\bin\Debug\TemperatureData.pdb
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\obj\Debug\TemperatureData.exe
+C:\Users\Levi\AppData\Local\Temporary Projects\TemperatureData\obj\Debug\TemperatureData.pdb
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\bin\Debug\TemperatureData.exe.config
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\bin\Debug\TemperatureData.exe
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\bin\Debug\TemperatureData.pdb
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\obj\Debug\TemperatureData.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\obj\Debug\TemperatureData.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\obj\Debug\TemperatureData.exe
+C:\Users\Levi\source\repos\TemperatureData\TemperatureData\obj\Debug\TemperatureData.pdb
